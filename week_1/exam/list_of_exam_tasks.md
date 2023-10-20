@@ -104,7 +104,7 @@
     Напишите программу на Python для удаления повторяющихся слов из заданного списка строк.
 
     Original String:
-    ['Python', 'Exercises', 'Practice', 'Solution', 'Exercises']
+    ['Python', 'Exercises', 'Exercises','Practice', 'Solution', 'Exercises']
     After removing duplicate words from the said list of strings:
     > ['Python', 'Exercises', 'Practice', 'Solution']
 
