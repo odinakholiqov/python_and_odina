@@ -3,6 +3,7 @@
 > No interner, no help to each other!
 > Make one file and place all your work there (e.g. odina_kholiqov.py)
 > Send the file at 
+> You have 2 hours only
 
 ### 1 Question
 Write a program to raise a natural number to a power of a given number recursively / Напишите программу, рекурсивно возводящую натуральное число в степень заданного числа
